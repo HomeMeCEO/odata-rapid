@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "bierner.github-markdown-preview",
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "hbenl.vscode-mocha-test-adapter",
+    ]
+}

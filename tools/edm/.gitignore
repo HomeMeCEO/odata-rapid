@@ -1,0 +1,8 @@
+# Coverage directory used by tools like istanbul
+coverage
+
+# Transpiled code
+lib
+
+# Dependency directories
+node_modules/
